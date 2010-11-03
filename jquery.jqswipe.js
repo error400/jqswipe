@@ -1,13 +1,3 @@
-/**
-*
-* error400 2010
-* 
-*
-*
-*
-*************************/
-
-
 (function($) {
 
   $.fn.jqswipe = function(options) {
